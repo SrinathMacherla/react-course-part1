@@ -1,6 +1,6 @@
 # The Ultimate React Course - Part 1
 
-This repository contains all of the code examples and exercise solutions for the first part of my Ultimate React course.
+This repository contains all of the code examples and exercises solutions for the first part of my Ultimate React course.
 
 I have designed this course to teach you everything you need to know to become a proficient React developer. This course is the first part of a two-part series, covering the fundamentals. You'll learn how to:
 
